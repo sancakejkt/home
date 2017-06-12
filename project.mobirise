@@ -1,0 +1,892 @@
+{
+  "settings": {
+    "name": "San Cake Jakarta",
+    "currentPage": "CUSTOMECAKE.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 28,
+    "versionPublish": "3.10.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-0",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "60px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "18px",
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "header3-2",
+          "title": "San Cake Jakarta",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "\"Special Cakes for Your Special Days\"<br>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-22-15-42-29-1495442621315-2000x1625-89.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-16-59-42-1497007778954-2000x2880-97.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-03-50-1489733848982-2000x2025-46.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-08-59-46-1491012153756-2000x2661-12.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-14-14-11-42-1489477634185-2000x1988-67.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-21-35-1480775179884-2000x2211-34.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-50-1480932331397-2000x2033-71.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-08-13-10-49-1481177644274-2000x2008-48.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-59-03-1488278013366-2000x2441-70.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#ffffff",
+            "showBullets": false
+          },
+          "_anchor": "slider-p",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Jl. Jelambar Utama Raya<br>Jakarta Barat",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: sancakejkt@gmail.com<br>WA/ Line 0838-7573-6268<br>\nFax :",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li><li><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-r",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/sancakejkt\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/sancakejkt\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "CUSTOMECAKE.html": {
+      "settings": {
+        "title": "custom cakes"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-7",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header3-a",
+          "title": "CUPCAKES",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/6xqmhql6bo-2000x2000-13-800x800-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6xqmhql6bo-2000x2000-13.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14633119-403698816684448-2209146744644860607-o-2000x2014-0-800x805-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14633119-403698816684448-2209146744644860607-o-2000x2014-0.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14681974-403699923351004-8524984911614555303-o-2000x2014-26-800x805-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14681974-403699923351004-8524984911614555303-o-2000x2014-26.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14702317-406379743083022-8853112177282005136-n-2000x2666-84-800x1066-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14702317-406379743083022-8853112177282005136-n-2000x2666-84.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bfrxosql6qb-2000x2000-81-800x800-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bfrxosql6qb-2000x2000-81.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bfrxznal6rv-2000x2000-3-800x800-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bfrxznal6rv-2000x2000-3.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bldxvctatoi-2000x2500-98-800x1000-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bldxvctatoi-2000x2500-98.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bkwiusraggp-2000x2000-22-800x800-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bkwiusraggp-2000x2000-22.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-b",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-c",
+          "title": "CUSTOM CAKE BIRTHDAY",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14556786-397142704006726-1479114551420091064-o-2000x2014-77-800x805-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14556786-397142704006726-1479114551420091064-o-2000x2014-77.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14715031-403706336683696-4620970171975229796-o-2000x2014-44-800x805-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14715031-403706336683696-4620970171975229796-o-2000x2014-44.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bkwixd-a0k2-2000x2000-51-800x800-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bkwixd-a0k2-2000x2000-51.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bkqeyhdax9t-2000x2000-18-800x800-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bkqeyhdax9t-2000x2000-18.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/biznbibaz61-2000x2000-69-800x800-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/biznbibaz61-2000x2000-69.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bkwiixpakpb-2000x2000-62-800x800-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bkwiixpakpb-2000x2000-62.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bkwismiayug-2000x2000-80-800x800-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bkwismiayug-2000x2000-80.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/bkqeyhdax9t-2000x2000-13-800x800-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bkqeyhdax9t-2000x2000-13.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-d",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n",
+          "title": "SWEET SEVENTEEN",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-26-41-2000x3555-18-800x1422-35.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-26-41-2000x3555-18.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-27-2000x3555-53-800x1422-27.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-27-2000x3555-53.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-20-2000x3555-97-800x1422-55.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-20-2000x3555-97.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-14-2000x3555-85-800x1422-6.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-14-2000x3555-85.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-09-2000x3555-48-800x1422-72.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-09-2000x3555-48.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-26-20-2000x3555-32-800x1422-10.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-26-20-2000x3555-32.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-53-2000x3555-63-800x1422-51.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-53-2000x3555-63.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-12-14-57-55-2000x3555-38-800x1422-93.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-12-14-57-55-2000x3555-38.png",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-o",
+          "articleLayout": false
+        }
+      ]
+    },
+    "WEDDING.html": {
+      "settings": {
+        "title": "WEDDING CAKE"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-e",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header3-g",
+          "title": "WEDDING PACKAGE",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-h",
+          "text": "<p><b>Wedding Cake Package A &nbsp;</b> &nbsp;&nbsp;<br></p><p>3 tier Dummy Cake</p><p>8 pcs Mini Cake 15 cm&nbsp;</p><p>20 pcs Mingle&nbsp;</p><p>6 pcs kue suap</p><p>Pisau panjang</p><p>Delivery dan setting di lokasi Jakarta&nbsp;</p><p><br></p><p><b>Wedding Cake Package B</b></p><p>5 tier Dummy Cake</p><p>8 pcs Mini Cake 15 cm</p><div><p>20 pcs Mingle&nbsp;</p><p>6 pcs kue suap</p><p>Pisau panjang</p><p>Delivery dan setting di lokasi Jakarta&nbsp;</p><p><br></p><p><b>Wedding Cupcakes Package C</b></p><p>5 Tier Dummy Cake</p><p>10 Pcs Mini Cake 15 cm</p><p>24 pcs Minggle</p><p>6 pcs kue suap&nbsp;</p><p>Pisau panjang</p><p>Tier Decorations &nbsp;</p><p>Delivery dan setting di lokasi Jakarta&nbsp;</p><p><br></p><p><b>Wedding Dessert Table Package</b></p><p>3 tier Dummy/Real Cake&nbsp;</p><p>1 Package Dessert Table:</p><p>&nbsp; - 1 set Cake pops</p><p>&nbsp; - 8&nbsp;</p><p>&nbsp; - 1&nbsp;</p><p>20 pcs Mingle Decorative Cookies</p><p>6 pcs kue suap&nbsp;</p><p>Pisau Panjang</p><p>Decoration for Dessert Table</p><p>Delivery dan setting di lokasi Jakarta&nbsp;</p><p><br></p><p>*the amount of the items can be customized, price vary upon the total amount.&nbsp;</p><p>Please consult with us</p><p>** untuk order Wedding Package min 1 bulan sebelum hari H</p><p>*** Harga exclude Ongkir</p><p><br></p></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14670601-403702776684052-3767964342948647377-n-2000x3555-92-800x1422-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14670601-403702776684052-3767964342948647377-n-2000x3555-92.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15230676-1693739674271032-1810182338196906487-n-2000x2016-23-800x806-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15230676-1693739674271032-1810182338196906487-n-2000x2016-23.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15267952-1693746174270382-7107046200504509235-n-2000x2715-95-800x1086-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15267952-1693746174270382-7107046200504509235-n-2000x2715-95.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15284129-1693740077604325-8257344322270759899-n-2000x2704-86-800x1081-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15284129-1693740077604325-8257344322270759899-n-2000x2704-86.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15326555-1693746107603722-7417438568886287781-n-2000x2700-76-800x1080-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15326555-1693746107603722-7417438568886287781-n-2000x2700-76.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15356555-1693746214270378-5732700062670738291-n-2000x3392-62-800x1356-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15356555-1693746214270378-5732700062670738291-n-2000x3392-62.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15319154-1693746280937038-9065590462593408184-n-2000x1184-18-800x473-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15319154-1693746280937038-9065590462593408184-n-2000x1184-18.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-i",
+          "articleLayout": false
+        }
+      ]
+    },
+    "DT.html": {
+      "settings": {
+        "title": "Dessert Table",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-j",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header3-k",
+          "title": "DESSERT TABLE PACKAGES",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-l",
+          "text": "<p><b>1.&nbsp;<span style=\"font-size: 17px;\">Dessert Table Packages A untuk 15 pax</span></b></p><p>Include :</p><p>- Cupcakes</p><p>- Chocoballs</p><p>- Puding Rose</p><p>- Marshmallow</p><p>- Lollipops</p><p>- Cake 2 Tiers 22 + 15 *</p><p>- Goodiebags with themes decoration</p><p><br></p><b>2. Dessert Table Packages B untuk 20 pax</b><div>Include :</div><div><span style=\"font-size: 17px;\">- Cupcakes</span></div><div>- Chocoballs</div><div>- Puding Rose</div><div>- Marshmallow</div><div>- Lollipops</div><div>- Biscuits Alphabets</div><div>- Cake 2 Tiers 22 + 15 *</div><div>- Goddiebags with themes decoration</div><div><br></div><b>3. Dessert Table Packages C untuk 30 pax</b><div>Include :</div><div>- Cupcakes</div><div>- Chocoballs</div><div>- Puding Rose</div><div>- Marshmallow</div><div>- Lollipops</div><div>- Biscuits Alphabets</div><div>- Cake 2 Tiers 22 + 15 *</div><div>- Goodiebags with themes decoration</div><div><br></div><div>Note :</div><div>* Harga dapat berbeda tergantung tema&nbsp;</div><div>** Order Dessert Table min 2 minggu sebelum hari H</div><div>*** Packages include Table Decoration, Setting and Delivery for Jakarta Only</div><div><br></div><div>Individual Goodiebags Packages</div><div>- Cupcakes Buttercream + Topping + Box @ 25.000,- / pcs (min 20 pcs)</div><div>- Cupcakes 2D/3D + Box + Ribbon @ 40.000,- / pcs (min 6 pcs)</div><div>- Puding Rose @ 10.000,- / cup (min 20 pcs)</div><div>- Puding Rainbow Big Cup @ 17.000,- / cup (min 20 pcs)</div><div><br><div><br><p><br></p><p><br></p></div></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-17-00-18-1496917464190-2000x1630-70-800x652-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-17-00-18-1496917464190-2000x1630-70.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-16-59-12-1497008093598-2000x2146-63-800x858-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-16-59-12-1497008093598-2000x2146-63.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-16-58-59-1497092233439-2000x2144-83-800x857-77.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-16-58-59-1497092233439-2000x2144-83.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-22-15-42-29-1495442621315-2000x1625-97-800x650-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-22-15-42-29-1495442621315-2000x1625-97.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-12-14-58-30-1494583254072-2000x2094-66-800x837-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-12-14-58-30-1494583254072-2000x2094-66.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-18-05-12-2000x1125-81-800x450-74.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-18-05-12-2000x1125-81.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-08-16-33-33-1481189633539-2000x1250-91-800x500-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-08-16-33-33-1481189633539-2000x1250-91.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-20-17-11-51-1490004872146-2000x1408-79-800x563-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-20-17-11-51-1490004872146-2000x1408-79.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-m",
+          "articleLayout": false
+        }
+      ]
+    }
+  }
+}
