@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "San Cake Jakarta",
-    "currentPage": "CUSTOMECAKE.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -24,6 +24,134 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "72px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "18px",
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "header3-2",
+          "title": "San Cake Jakarta",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "\"A Special Cakes for Your Special Days\"<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-45-44-1480999656156-2000x2097-12-800x838-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-45-44-1480999656156-2000x2097-12.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-17-58-44-1494070974812-2000x2019-79-800x807-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-17-58-44-1494070974812-2000x2019-79.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-08-58-17-1491012258939-2000x2563-38-800x1025-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-08-58-17-1491012258939-2000x2563-38.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-22-15-49-13-1495442976308-2000x2686-67-800x1074-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-22-15-49-13-1495442976308-2000x2686-67.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-03-17-39-43-1491216083300-2000x2844-41-800x1137-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-03-17-39-43-1491216083300-2000x2844-41.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-18-45-11-1480765636307-2000x2205-6-800x882-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-18-45-11-1480765636307-2000x2205-6.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-11-26-19-45-58-1480164604786-2000x1522-50-800x608-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-11-26-19-45-58-1480164604786-2000x1522-50.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-38-1480780239427-2000x1474-82-800x589-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-38-1480780239427-2000x1474-82.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-11-23-19-46-21-1480579914748-2000x1190-43-800x476-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-11-23-19-46-21-1480579914748-2000x1190-43.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-18-1480780434823-2000x2684-93-800x1073-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-18-1480780434823-2000x2684-93.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-38-1480780239427-2000x1474-82-800x589-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-38-1480780239427-2000x1474-82.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-07-19-35-53-1494160607379-2000x2075-9-800x830-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-07-19-35-53-1494160607379-2000x2075-9.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-10-16-54-35-1491819136859-2000x2130-37-800x852-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-10-16-54-35-1491819136859-2000x2130-37.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-29-14-26-04-1493450866622-2000x1333-28-800x533-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-29-14-26-04-1493450866622-2000x1333-28.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-s",
+          "articleLayout": false
+        },
         {
           "_inherit": "dropdown-menu",
           "_tags": [
@@ -73,147 +201,6 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "60px"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "18px",
-              "color": "#b8312f"
-            }
-          },
-          "_anchor": "header3-2",
-          "title": "San Cake Jakarta",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": "\"Special Cakes for Your Special Days\"<br>"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-22-15-42-29-1495442621315-2000x1625-89.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-16-59-42-1497007778954-2000x2880-97.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-03-50-1489733848982-2000x2025-46.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Slide 3",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-08-59-46-1491012153756-2000x2661-12.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-14-14-11-42-1489477634185-2000x1988-67.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-21-35-1480775179884-2000x2211-34.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-50-1480932331397-2000x2033-71.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-08-13-10-49-1481177644274-2000x2008-48.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-59-03-1488278013366-2000x2441-70.jpg",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "Slide 1",
-                "showText": false,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#ffffff",
-            "showBullets": false
-          },
-          "_anchor": "slider-p",
-          "articleLayout": false
         },
         {
           "_tags": [

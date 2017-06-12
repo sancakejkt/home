@@ -1,5 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+#header3-2 H3 {
+  text-align: center;
+  font-size: 72px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-2 P {
+  text-align: center;
+  font-size: 18px;
+  color: #b8312f;
+}
 #dropdown-menu-2btn-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -19,15 +30,6 @@
 }
 #dropdown-menu-2btn-0 .navbar-toggler {
   color: #ffffff;
-}
-#header3-2 H3 {
-  text-align: center;
-  font-size: 60px;
-}
-#header3-2 P {
-  text-align: center;
-  font-size: 18px;
-  color: #b8312f;
 }
 #dropdown-menu-2btn-7 .hide-buttons [data-button] {
   display: none !important;
