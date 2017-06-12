@@ -116,6 +116,15 @@
   text-align: center;
   font-family: 'Oxygen', sans-serif;
   font-size: 30px;
+  color: #d14841;
+}
+#content1-l P {
+  color: #000000;
+  text-align: left;
+}
+#content1-l B {
+  color: #000000;
+  text-align: left;
 }
 #dropdown-menu-2btn-t .hide-buttons [data-button] {
   display: none !important;
