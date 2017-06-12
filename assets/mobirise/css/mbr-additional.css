@@ -117,3 +117,30 @@
   font-family: 'Oxygen', sans-serif;
   font-size: 30px;
 }
+#dropdown-menu-2btn-t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-t .nav .link,
+#dropdown-menu-2btn-t .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-t .navbar,
+#dropdown-menu-2btn-t .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-t .dropdown-menu a:hover,
+#dropdown-menu-2btn-t .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-t .navbar-toggler {
+  color: #ffffff;
+}
+#content1-v DIV {
+  text-align: center;
+}
+#content1-v B {
+  font-size: 25px;
+  color: #d14841;
+}

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "San Cake Jakarta",
-    "currentPage": "index.html",
+    "currentPage": "PL.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 29,
+    "uniqCompNum": 32,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -47,7 +47,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "\"A Special Cakes for Your Special Days\"<br>"
+          "meta": "\"A Special Cakes for Your Special Days\"<br><br><br>"
         },
         {
           "_tags": [
@@ -102,9 +102,9 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-38-1480780239427-2000x1474-82-800x589-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-38-1480780239427-2000x1474-82.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-44-05-1480999770860-2000x2133-23-800x853-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-44-05-1480999770860-2000x2133-23.jpg",
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -140,7 +140,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-29-14-26-04-1493450866622-2000x1333-28-800x533-66.jpg",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-29-14-26-04-1493450866622-2000x1333-28.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": false,
@@ -200,7 +200,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
         },
         {
           "_tags": [
@@ -233,9 +233,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Jl. Jelambar Utama Raya<br>Jakarta Barat",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: sancakejkt@gmail.com<br>WA/ Line 0838-7573-6268<br>\nFax :",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li><li><br></li></ul>"
+          "text1": "<b>OUR WORKSHOP</b><br>Jl. Jelambar Utama Raya<br>Jakarta Barat",
+          "text2": "<b>ORDER HOTLINE</b><br>\nEmail: sancakejkt@gmail.com<br>WA/ Line 0838-7573-6268<br><br>Opening Hour :<br>Mon to Sat 07 am - 9 pm<br>Sunday : C L O S E<br><br>",
+          "text3": "<p><b>FAQ</b></p><p><br></p><p><b><br></b></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li><li><br></li></ul><p></p>"
         },
         {
           "_tags": [
@@ -256,7 +256,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/sancakejkt\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/sancakejkt\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/sancakejkt\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/sancakejkt\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -313,7 +313,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
         },
         {
           "_tags": [
@@ -489,17 +489,17 @@
             "Theme"
           ],
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header3-n",
           "title": "SWEET SEVENTEEN",
           "_params": {
             "showMeta": true
           },
-          "meta": "",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
+          "meta": ""
         },
         {
           "_tags": [
@@ -623,7 +623,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
         },
         {
           "_tags": [
@@ -776,7 +776,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Price List<br><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FAQ<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
         },
         {
           "_tags": [
@@ -872,6 +872,80 @@
           },
           "_anchor": "gallery1-m",
           "articleLayout": false
+        }
+      ]
+    },
+    "PL.html": {
+      "settings": {
+        "title": "PRICE LIST"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-t",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Cookies<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "25px",
+              "color": "#d14841"
+            }
+          },
+          "_anchor": "content1-v",
+          "text": "<b>PRICE LIST</b><div><br></div><div>Price depends on type of design your cake/cupcakes would be</div><div><br></div><div><b>1. CUPCAKES</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;- Buttercream with frosting &amp; Topper @ IDR 25.000,- / pcs</div><div>&nbsp;&nbsp;&nbsp;&nbsp;- 2D/3D with @ IDR 40.000,- / pcs</div><div>&nbsp;&nbsp;&nbsp;&nbsp;- Korean Flower @ IDR 45.000,- / pcs</div><div><br></div><div>* including box, ribbon and or tag&nbsp;</div><div>* Min order 6 pcs for 2D/3D</div><div>* Min order 20 pcs for Individual Packages</div><div><br></div><div><b>2. BUTTERCREAM CAKE</b></div><div><br></div><div><b>Loyang Bulat</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<b> Loyang Persegi</b></div><div>18cm star from IDR 355k &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20*20 start from IDR 555k<span style=\"font-size: 17px;\">&nbsp; &nbsp;&nbsp;</span></div><div>20cm start from IDR 485k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 22*22 start from IDR 610k</div><div>22cm Start from IDR 530k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 24*24 start from IDR 665k</div><div>24cm start from IDR 610k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 26*26 start from IDR 735k</div><div>26cm start from IDR 665k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 28*28 start from IDR 800k</div><div>28cm start from IDR 775k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 30*30 start from IDR 875k</div><div><span style=\"font-size: 17px;\">30cm start from IDR 850k</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 25*32 start from IDR 875k</div><div><span style=\"font-size: 17px;\">&nbsp; &nbsp; &nbsp;35cm start from IDR 1150k</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;30*40 start from IDR 1.1 juta</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;35*45 start from IDR 1.2 juta</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;60*40 start from IDR 2 juta<br></div><div><br></div><div>*decor with simple fondant/cake topper add (start from) 100k</div><div>*cake topper options: figurine / toys / fondant / laser cut custom words</div><div>*adding figurine based on request add IDR 35k - 85k</div><div><br></div><div><b>3. BABY CAKE</b></div><div><br></div><div>Uk 12 O </div><div>min order 6 pcs @ 85.000,- / pcs</div><div>&gt; 6 Pcs @ 80.000,- / pcs</div><div><br></div><div>Uk 15 O</div><div>Min order 6 Pcs @ 110.000,- / pcs</div><div>&gt; 6 Pcs @ 100.000,- / pcs</div><div><br></div><div>Baby Rolls (panjang 20 cm)</div><div>min order 6 pcs @ 85.000,- / pcs</div><div>&gt; 6 pcs @ 80.000,- / pcs</div><div><br></div><div><br></div><div><b>4. FLOWERS CAKE / DRIP CAKE/ OMBRE CAKE</b></div><div>20cm   700,000</div><div>25cm   900,000</div><div>30cm   1,200,000</div><div><br></div><div>*decor with simple fondant/cake topper add (start from) 100k</div><div>*cake topper options: figurine / toys / fondant / laser cut custom words</div><div>*adding figurine based on request add IDR 35k-85k</div><div><br><div><span style=\"font-size: 17px;\"><b>5. TIER CAKE&nbsp;</b></span><br></div><div>20 + 12cm  start from 600,000</div><div>22 + 15cm start from 675.000</div><div>24 + 15cm start from 775.000</div><div>26 + 15cm  start from 825.000</div><div>28 + 15cm start from 895.000</div><div>30 + 15cm start from 1.1 juta</div><div><br></div><div>*decor with simple fondant/cake topper add (start from) 100k</div><div>*cake topper options: figurine / toys / fondant / laser cut custom words</div><div>*adding figurine based on request add IDR 35k-85k</div><div><br></div><div><br></div><div><b><i>OUR CAKE FLAVORS</i></b></div><div>&nbsp;~Lapis Surabaya&nbsp;<span style=\"font-size: 17px;\">*best seller*~</span></div><div>~Black Forest~</div><div>~Puding~</div><div>~Puding Surabaya~</div><div><br></div><div><b>6. KUE JADOEL</b></div><div><br></div><div><b><i>Lapis Legit Full Wysman</i></b></div><div>Loyang Bulat 20cm @ 400.000,-</div><div>Loyang Persegi 20*20cm @ 500.000,-</div><div>Lapis Legit Tikar @ 550.000,-</div><div><br></div><div><b><i>Bolu Gulung</i></b></div><div>(isi selai : nanas/ strawberry/ keju/ mocca) @ 90.000,-</div><div>(isi selai Talas ) @ 100.000,-</div><div><br></div><div><span style=\"font-size: 17px;\"><b><i>Lapis Surabaya (Polos)</i></b></span></div><div><span style=\"font-size: 17px;\">Loyang Bulat&nbsp;</span></div><div><span style=\"font-size: 17px;\">Uk 20 @ 285.000,-</span></div><div><span style=\"font-size: 17px;\">uk 22 @&nbsp;<br></span><span style=\"font-size: 17px;\">&nbsp;</span></div><div><br></div><div><b>OTHERS</b></div><div>Individual Cookies 15,000/pcs (packaging based on themes)</div><div>Cakepops/ Chocoballs 15,000/pcs (include packaging based on themes)</div><div><span style=\"font-size: 17px;\">Nampan Kering/Basah/Campur isi 120 pcs @ 275.000,- , Isi 80 Pcs @ 230.000,-</span><br></div><div>Nampan Talas Ceria isi 120 Pcs @ 400.000,- / Isi 80 Pcs @ 345.000,- / Isi 60 Pcs @ 285.000,-</div><div>Tart Susu @ 100,000</div><div>Biscuits Alphabets @4.000,- / alphabets (min 3 - 8 alphabets) &nbsp;</div><div><br></div><div><b>HAMPERS</b></div><div><br></div><div><br></div><div><b>DELIVERY</b></div><div>Please note we take extra careful on delivering the cake safe to your location, and we use special cake courier with motor bike or car.&nbsp;</div><div>Jakarta area 40,000 - 120,000</div><div><br></div><div><br></div><div><br></div></div>"
         }
       ]
     }
