@@ -3,7 +3,7 @@
 
 #header3-2 H3 {
   text-align: center;
-  font-size: 72px;
+  font-size: 36px;
   font-family: 'Montserrat', sans-serif;
 }
 #header3-2 P {
@@ -59,6 +59,13 @@
   text-align: center;
 }
 #header3-n H3 {
+  text-align: center;
+}
+#header3-w H3 {
+  text-align: center;
+  font-size: 17px;
+}
+#header3-y H3 {
   text-align: center;
 }
 
