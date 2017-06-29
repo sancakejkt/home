@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "San Cake Jakarta",
-    "currentPage": "PL.html",
+    "currentPage": "DT.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -954,7 +954,7 @@
             }
           },
           "_anchor": "content1-l",
-          "text": "<p><b><br></b></p><p><b>1.&nbsp;<span style=\"font-size: 17px;\">Dessert Table Packages A untuk 15 pax</span></b></p><p>Include :</p><p>- Cupcakes</p><p>- Chocoballs</p><p>- Puding Rose</p><p>- Marshmallow</p><p>- Lollipops</p><p>- Cake 2 Tiers 22 + 15 *</p><p>- Goodiebags with themes decoration</p><p><br></p><b>2. Dessert Table Packages B untuk 20 pax</b><div>Include :</div><div><span style=\"font-size: 17px;\">- Cupcakes</span></div><div>- Chocoballs</div><div>- Puding Rose</div><div>- Marshmallow</div><div>- Lollipops</div><div>- Biscuits Alphabets</div><div>- Cake 2 Tiers 22 + 15 *</div><div>- Goddiebags with themes decoration</div><div><br></div><b>3. Dessert Table Packages C untuk 30 pax</b><div>Include :</div><div>- Cupcakes</div><div>- Chocoballs</div><div>- Puding Rose</div><div>- Marshmallow</div><div>- Lollipops</div><div>- Biscuits Alphabets</div><div>- Cake 2 Tiers 22 + 15 *</div><div>- Goodiebags with themes decoration</div><div><br></div><div>Note :</div><div>* Harga dapat berbeda tergantung tema&nbsp;</div><div>** Order Dessert Table min 2 minggu sebelum hari H</div><div>*** Packages include Table Decoration, Setting and Delivery for Jakarta Only</div><div><br></div><div><b>Individual Goodiebags Packages</b></div><div>- Cupcakes Buttercream + Topping + Box @ 25.000,- / pcs (min 20 pcs)</div><div>- Cupcakes 2D/3D + Box + Ribbon @ 40.000,- / pcs (min 6 pcs)</div><div>- Puding Rose @ 10.000,- / cup (min 20 pcs)</div><div>- Puding Rainbow Big Cup @ 17.000,- / cup (min 20 pcs)</div><div><br></div><div><b>Additional Food/ Sweets</b></div><div><br></div><div><br><div><b>PARTY SERVICE</b></div><div><br></div><div><br></div><div><b>PARTY DECORATION</b></div><div><br></div><div><b>TABLE SETTING DECORATION</b></div><div><br><p><br></p><p><br></p></div></div>"
+          "text": "<p><b><br></b></p><p><b>1.&nbsp;<span style=\"font-size: 17px;\">Dessert Table Packages A untuk 15 pax</span></b></p><p>Include :</p><p>- Cupcakes</p><p>- Chocoballs</p><p>- Puding Rose</p><p>- Marshmallow</p><p>- Lollipops</p><p>- Cake 2 Tiers 22 + 15 *</p><p>- Goodiebags with themes decoration</p><p><br></p><b>2. Dessert Table Packages B untuk 20 pax</b><div>Include :</div><div><span style=\"font-size: 17px;\">- Cupcakes</span></div><div>- Chocoballs</div><div>- Puding Rose</div><div>- Marshmallow</div><div>- Lollipops</div><div>- Biscuits Alphabets</div><div>- Cake 2 Tiers 22 + 15 *</div><div>- Goddiebags with themes decoration</div><div><br></div><b>3. Dessert Table Packages C untuk 30 pax</b><div>Include :</div><div>- Cupcakes</div><div>- Chocoballs</div><div>- Puding Rose</div><div>- Marshmallow</div><div>- Lollipops</div><div>- Biscuits Alphabets</div><div>- Cake 2 Tiers 22 + 15 *</div><div>- Goodiebags with themes decoration</div><div><br></div><div>Note :</div><div>* Harga dapat berbeda tergantung tema&nbsp;</div><div>** Order Dessert Table min 2 minggu sebelum hari H</div><div>*** Packages include Table Decoration, Setting and Delivery for Jakarta Only</div><div><br></div><div><b>Individual Goodiebags Packages</b></div><div>- Cupcakes Buttercream + Topping + Box @ 25.000,- / pcs (min 20 pcs)</div><div>- Cupcakes 2D/3D + Box + Ribbon @ 40.000,- / pcs (min 6 pcs)</div><div>- Puding Rose @ 10.000,- / cup (min 20 pcs)</div><div>- Puding Rainbow Big Cup @ 17.000,- / cup (min 20 pcs)</div><div><br></div><div><b>Additional Food/ Sweets</b></div><div><b>(not available at this moment)</b></div><div><br><div><b>PARTY SERVICE</b></div><div><b>(not available at this moment)</b></div><div><br></div><div><b>PARTY DECORATION</b></div><div><b>(not available at this moment)</b></div><div><br></div><div><b>TABLE SETTING DECORATION</b></div><div><b>(not available at this moment)</b></div><div><br><p><br></p><p><br></p></div></div>"
         },
         {
           "_tags": [
@@ -1009,9 +1009,27 @@
               },
               {
                 "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-17-00-58-2000x3555-14-800x1422-67.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-06-07-17-00-58-2000x3555-14.png",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-20-17-11-51-1490004872146-2000x1408-79-800x563-91.jpg",
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-20-17-11-51-1490004872146-2000x1408-79.jpg",
-                "active": true
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-20-17-11-51-1490004872146-2000x1408-79-800x563-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-20-17-11-51-1490004872146-2000x1408-79.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-20-17-11-51-1490004872146-2000x1408-79-800x563-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-20-17-11-51-1490004872146-2000x1408-79.jpg",
+                "active": false
               }
             ],
             "showText": false,
