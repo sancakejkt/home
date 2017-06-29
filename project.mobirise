@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "San Cake Jakarta",
-    "currentPage": "WEDDING.html",
+    "currentPage": "Baby Cakes.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 40,
+    "uniqCompNum": 48,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -228,7 +228,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
         },
         {
           "_tags": [
@@ -288,455 +288,6 @@
         }
       ]
     },
-    "CUSTOMECAKE.html": {
-      "settings": {
-        "title": "custom cakes"
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-7",
-          "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "header3-a",
-          "title": "CUPCAKES",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/6xqmhql6bo-2000x2000-13-800x800-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6xqmhql6bo-2000x2000-13.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/14633119-403698816684448-2209146744644860607-o-2000x2014-0-800x805-67.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14633119-403698816684448-2209146744644860607-o-2000x2014-0.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/14681974-403699923351004-8524984911614555303-o-2000x2014-26-800x805-28.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14681974-403699923351004-8524984911614555303-o-2000x2014-26.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/14702317-406379743083022-8853112177282005136-n-2000x2666-84-800x1066-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14702317-406379743083022-8853112177282005136-n-2000x2666-84.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bfrxosql6qb-2000x2000-81-800x800-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bfrxosql6qb-2000x2000-81.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bfrxznal6rv-2000x2000-3-800x800-71.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bfrxznal6rv-2000x2000-3.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bldxvctatoi-2000x2500-98-800x1000-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bldxvctatoi-2000x2500-98.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bkwiusraggp-2000x2000-22-800x800-89.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bkwiusraggp-2000x2000-22.jpg",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#4c6972",
-            "fullWidth": false,
-            "noGutter": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-b",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header3-c",
-          "title": "CUSTOM CAKE BIRTHDAY",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/14556786-397142704006726-1479114551420091064-o-2000x2014-77-800x805-99.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14556786-397142704006726-1479114551420091064-o-2000x2014-77.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/14715031-403706336683696-4620970171975229796-o-2000x2014-44-800x805-35.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14715031-403706336683696-4620970171975229796-o-2000x2014-44.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bkwixd-a0k2-2000x2000-51-800x800-54.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bkwixd-a0k2-2000x2000-51.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bkqeyhdax9t-2000x2000-18-800x800-16.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bkqeyhdax9t-2000x2000-18.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/biznbibaz61-2000x2000-69-800x800-94.jpg",
-                "image": "@PROJECT_PATH@/assets/images/biznbibaz61-2000x2000-69.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bkwiixpakpb-2000x2000-62-800x800-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bkwiixpakpb-2000x2000-62.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bkwismiayug-2000x2000-80-800x800-82.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bkwismiayug-2000x2000-80.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/bkqeyhdax9t-2000x2000-13-800x800-5.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bkqeyhdax9t-2000x2000-13.jpg",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#4c6972",
-            "fullWidth": false,
-            "noGutter": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-d",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header3-n",
-          "title": "SWEET SEVENTEEN",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-26-41-2000x3555-18-800x1422-35.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-26-41-2000x3555-18.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-27-2000x3555-53-800x1422-27.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-27-2000x3555-53.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-20-2000x3555-97-800x1422-55.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-20-2000x3555-97.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-14-2000x3555-85-800x1422-6.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-14-2000x3555-85.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-09-2000x3555-48-800x1422-72.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-09-2000x3555-48.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-26-20-2000x3555-32-800x1422-10.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-26-20-2000x3555-32.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-53-2000x3555-63-800x1422-51.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-27-53-2000x3555-63.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-12-14-57-55-2000x3555-38-800x1422-93.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-12-14-57-55-2000x3555-38.png",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#4c6972",
-            "fullWidth": false,
-            "noGutter": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-o",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "header3-w",
-          "title": "BABY CAKES<br><br>These Baby Cakes are suitable for baby announcement party, Baby First Mont Event / Manyue,Baby 40 Days Event, &nbsp;Smash Baby Event",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-06-1480780463745-2000x2575-87-800x1030-44.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-06-1480780463745-2000x2575-87.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-01-1480780475327-2000x2430-75-800x972-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-01-1480780475327-2000x2430-75.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-18-1480780434823-2000x2684-6-800x1073-52.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-18-1480780434823-2000x2684-6.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-24-1480780422463-2000x2722-0-800x1088-58.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-24-1480780422463-2000x2722-0.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-01-1480780354308-2000x2066-68-800x826-44.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-01-1480780354308-2000x2066-68.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-17-1480780297192-2000x2008-96-800x803-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-17-1480780297192-2000x2008-96.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-38-1480780239427-2000x1474-77-800x589-62.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-38-1480780239427-2000x1474-77.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-13-1480780310383-2000x2030-5-800x812-4.jpg",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-13-1480780310383-2000x2030-5.jpg",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#4c6972",
-            "fullWidth": false,
-            "noGutter": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-x",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header3-y",
-          "title": "NAMPAN",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-22-44-2000x3555-56-800x1422-18.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-22-44-2000x3555-56.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-22-50-2000x3555-21-800x1422-7.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-22-50-2000x3555-21.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-22-39-2000x3555-82-800x1422-95.png",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-22-39-2000x3555-82.png",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#4c6972",
-            "fullWidth": false,
-            "noGutter": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-z",
-          "articleLayout": false
-        }
-      ]
-    },
     "WEDDING.html": {
       "settings": {
         "title": "WEDDING CAKE"
@@ -790,7 +341,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
         },
         {
           "_tags": [
@@ -875,6 +426,12 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/15319154-1693746280937038-9065590462593408184-n-2000x1184-18-800x473-78.jpg",
                 "image": "@PROJECT_PATH@/assets/images/15319154-1693746280937038-9065590462593408184-n-2000x1184-18.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-03-17-39-43-1491216083300-2000x2844-51-800x1137-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-03-17-39-43-1491216083300-2000x2844-51.jpg",
                 "active": true
               }
             ],
@@ -943,7 +500,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
         },
         {
           "_tags": [
@@ -1124,7 +681,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
         },
         {
           "_tags": [
@@ -1198,7 +755,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\">Custom Cakes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
         },
         {
           "_tags": [
@@ -1219,6 +776,636 @@
           "_name": "content1",
           "_anchor": "content1-12",
           "text": "<p>SINGLE INDIVDUAL PACKAGES GOODIE BAGS</p><p>(include Stiker &amp; Packaging)</p><p>1. Cupcakes Butter Cream + Topper + Box &nbsp;IDR 25.000/ pcs</p><p>2. Cupcakes 2D/3D + Decoration + Box + Ribbon IDR 40.000,- /pcs</p><p>3. Decoration Cookies (customized as per themes) IDR 15.000,- / pcs</p><p>4. Cake Pops / Chocoballs (customized as per themes) IDR 15.000,- / pcs</p><p>5. Biscuits Alphabets (min 3 - 8 alphabets) IDR 4.000,- / alphabets</p><p>&nbsp; &nbsp; (Includes packaging + Ribbon + Tag)</p><p>6. Marshmallow IDR xxx</p><p>7. Lolipops IDR xxx</p><p><br></p><p>Note :&nbsp;</p><p>* Order min 15 pcs</p><p>** Harga exclude Ongkir / Delivery</p>"
+        }
+      ]
+    },
+    "bday child.html": {
+      "settings": {
+        "title": "birthday children"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-14",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-45-36-2000x2156-28-800x862-65.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-45-36-2000x2156-28.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-08-22-07-23-2000x2262-64-800x904-89.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-08-22-07-23-2000x2262-64.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-34-20-2000x2888-37-800x1155-92.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-34-20-2000x2888-37.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-43-59-2000x2117-85-800x846-34.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-43-59-2000x2117-85.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-55-52-1488278422212-2000x2191-18-800x876-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-55-52-1488278422212-2000x2191-18.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-54-43-2000x2256-88-800x902-49.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-54-43-2000x2256-88.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-16-53-27-2000x3555-81-800x1422-81.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-16-53-27-2000x3555-81.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-08-59-56-1491012141220-2000x2602-78-800x1040-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-08-59-56-1491012141220-2000x2602-78.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-08-58-17-1491012258939-2000x2563-73-800x1025-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-01-08-58-17-1491012258939-2000x2563-73.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-03-12-1489733894626-2000x2506-76-800x1002-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-03-12-1489733894626-2000x2506-76.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-04-59-1489733774498-2000x2308-54-800x923-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-04-59-1489733774498-2000x2308-54.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-08-22-07-14-2000x2134-1-800x853-61.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-08-22-07-14-2000x2134-1.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-23-21-23-56-1490334596132-2000x2591-85-800x1036-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-23-21-23-56-1490334596132-2000x2591-85.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-17-59-20-1494070937033-2000x2141-30-800x856-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-17-59-20-1494070937033-2000x2141-30.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-06-16-48-50-2000x2195-88-800x878-83.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-06-16-48-50-2000x2195-88.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-59-39-1488277939038-2000x2297-14-800x918-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-59-39-1488277939038-2000x2297-14.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-44-39-1480999745571-2000x2177-86-800x870-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-44-39-1480999745571-2000x2177-86.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-23-21-56-1480782313390-2000x2000-4-800x800-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-23-21-56-1480782313390-2000x2000-4.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-17-58-34-1494070991786-2000x1997-23-800x798-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-17-58-34-1494070991786-2000x1997-23.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-10-12-02-1488269581761-2000x2565-45-800x1026-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-10-12-02-1488269581761-2000x2565-45.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-10-07-43-1488270669884-2000x2644-48-800x1057-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-10-07-43-1488270669884-2000x2644-48.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-13-13-15-28-2000x2257-83-800x902-67.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-13-13-15-28-2000x2257-83.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-11-06-18-53-1491866372565-2000x2334-66-800x933-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-11-06-18-53-1491866372565-2000x2334-66.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-23-22-21-1480782244092-2000x1994-54-800x797-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-23-22-21-1480782244092-2000x1994-54.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-08-22-07-03-2000x2056-73-800x822-84.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-08-22-07-03-2000x2056-73.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-33-40-2000x2078-13-800x831-61.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-33-40-2000x2078-13.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-34-35-2000x2107-22-800x842-44.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-34-35-2000x2107-22.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-21-25-1480775206551-2000x2416-64-800x966-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-21-21-25-1480775206551-2000x2416-64.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-20-06-08-05-1495235306298-2000x2313-64-800x925-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-20-06-08-05-1495235306298-2000x2313-64.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-45-44-1480999656156-2000x2097-59-800x838-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-45-44-1480999656156-2000x2097-59.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-44-05-1480999770860-2000x2133-63-800x853-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-44-05-1480999770860-2000x2133-63.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-59-03-1488278013366-2000x2441-15-800x976-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-59-03-1488278013366-2000x2441-15.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-16",
+          "articleLayout": false
+        }
+      ]
+    },
+    "bdayadult.html": {
+      "settings": {
+        "title": "Birthday Cake for Adults"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-17",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-11-28-19-09-07-1480334989804-2000x2186-66-800x874-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-11-28-19-09-07-1480334989804-2000x2186-66.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-32-1480932366953-2000x2541-66-800x1016-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-32-1480932366953-2000x2541-66.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-50-1480932331397-2000x2033-42-800x813-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-50-1480932331397-2000x2033-42.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-18-45-28-1480765595771-2000x2252-97-800x900-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-18-45-28-1480765595771-2000x2252-97.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-10-09-20-1488270533412-2000x2392-10-800x956-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-10-09-20-1488270533412-2000x2392-10.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-10-13-49-39-1489129176860-2000x2769-10-800x1107-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-10-13-49-39-1489129176860-2000x2769-10.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-10-00-11-1488277891100-2000x2169-55-800x867-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-10-00-11-1488277891100-2000x2169-55.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-59-20-1488277974064-2000x2455-61-800x982-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-02-28-09-59-20-1488277974064-2000x2455-61.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-45-1480932342140-2000x2230-51-800x892-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-45-1480932342140-2000x2230-51.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-57-50-1481000354578-2000x2236-43-800x894-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-57-50-1481000354578-2000x2236-43.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-18-00-16-1494070886246-2000x2197-9-800x878-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-18-00-16-1494070886246-2000x2197-9.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-18-03-01-1494070745316-2000x2373-72-800x949-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-05-06-18-03-01-1494070745316-2000x2373-72.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-10-16-52-01-1491819388967-2000x2731-50-800x1092-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-10-16-52-01-1491819388967-2000x2731-50.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-10-16-52-17-2000x2230-13-800x892-48.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-10-16-52-17-2000x2230-13.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-16-1480932405471-2000x1391-74-800x556-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-05-17-04-16-1480932405471-2000x1391-74.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-03-50-1489733848982-2000x2025-12-800x810-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-03-50-1489733848982-2000x2025-12.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-03-50-1489733848982-2000x2025-12-800x810-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-17-07-03-50-1489733848982-2000x2025-12.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-14-14-11-42-1489477634185-2000x1988-28-800x795-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-14-14-11-42-1489477634185-2000x1988-28.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-03-23-21-22-51-1490348260813-2000x2680-91-800x1072-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-03-23-21-22-51-1490348260813-2000x2680-91.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-56-48-1481000390378-2000x2316-14-800x926-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-11-56-48-1481000390378-2000x2316-14.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-19",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Baby Cakes.html": {
+      "settings": {
+        "title": "Baby Cakes"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1a",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-18-45-11-1480765636307-2000x2205-78-800x882-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-18-45-11-1480765636307-2000x2205-78.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-01-1480780475327-2000x2430-85-800x972-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-01-1480780475327-2000x2430-85.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-06-1480780463745-2000x2575-19-800x1030-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-06-1480780463745-2000x2575-19.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-18-1480780434823-2000x2684-51-800x1073-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-18-1480780434823-2000x2684-51.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-30-1480780406762-2000x2480-53-800x992-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-30-1480780406762-2000x2480-53.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-40-1480780393835-2000x2680-61-800x1072-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-40-1480780393835-2000x2680-61.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-53-1480780367540-2000x2038-82-800x815-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-53-1480780367540-2000x2038-82.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-47-1480780382245-2000x2516-96-800x1006-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-48-47-1480780382245-2000x2516-96.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-01-1480780354308-2000x2066-74-800x826-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-01-1480780354308-2000x2066-74.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-13-1480780310383-2000x2030-5-800x812-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-13-1480780310383-2000x2030-5.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-17-1480780297192-2000x2008-47-800x803-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-17-1480780297192-2000x2008-47.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-28-1480780267529-2000x2011-48-800x804-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-28-1480780267529-2000x2011-48.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-17-41-31-1481021126350-2000x2211-36-800x884-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-06-17-41-31-1481021126350-2000x2211-36.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2017-04-13-01-12-34-1492078452510-2000x1805-33-800x722-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-04-13-01-12-34-1492078452510-2000x1805-33.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-33-1480780252310-2000x2033-37-800x813-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2016-12-03-22-49-33-1480780252310-2000x2033-37.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1b",
+          "articleLayout": false
         }
       ]
     }
