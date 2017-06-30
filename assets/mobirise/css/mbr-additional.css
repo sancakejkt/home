@@ -272,3 +272,23 @@
 #dropdown-menu-2btn-1m .navbar-toggler {
   color: #ffffff;
 }
+#dropdown-menu-2btn-1p .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1p .nav .link,
+#dropdown-menu-2btn-1p .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-1p .navbar,
+#dropdown-menu-2btn-1p .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-1p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1p .dropdown-menu a:hover,
+#dropdown-menu-2btn-1p .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-1p .navbar-toggler {
+  color: #ffffff;
+}

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "San Cake Jakarta",
-    "currentPage": "Baby Cakes.html",
+    "currentPage": "faq.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 61,
+    "uniqCompNum": 64,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -228,7 +228,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drip Cake.html\">Drip Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Edible Image Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chocoballs.html\">Chocoballs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"17.html\">Sweet Seventeen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drip Cake.html\">Drip Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Edible Image Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chocoballs.html\">Chocoballs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"17.html\">Sweet Seventeen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">FAQ</a></li>"
         },
         {
           "_tags": [
@@ -1401,7 +1401,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drip Cake.html\">Drip Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Edible Image Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chocoballs.html\">Chocoballs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"17.html\">Sweet Seventeen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">Etc</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drip Cake.html\">Drip Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Edible Image Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chocoballs.html\">Chocoballs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"17.html\">Sweet Seventeen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">FAQ</a></li>"
         },
         {
           "_tags": [
@@ -1952,6 +1952,71 @@
           },
           "_anchor": "gallery1-1o",
           "articleLayout": false
+        }
+      ]
+    },
+    "faq.html": {
+      "settings": {
+        "title": "FAQ"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1p",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CUSTOMECAKE.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Custom Cakes</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bday child.html\">Birthday Cake for Children<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bdayadult.html\">Birthday Cake for Adult</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Baby Cakes.html\">Baby Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drip Cake.html\">Drip Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Edible Image Cake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chocoballs.html\">Chocoballs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"17.html\">Sweet Seventeen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"WEDDING.html\">Wedding<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DT.html\">Dessert Table<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Goddiebags.html\">Goodie Bags<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PL.html\">Price List<br><br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://mobirise.com/\">FAQ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1r",
+          "text": "<p>F A Q - Frequently Asked Questions</p><p></p><div><span style=\"font-size: 17px;\">.: GENERAL :.</span><br></div><div><br></div><div>- Apakah San Cake Jakarta punya outlet / toko ( offline ) / workshop / gerai ?</div><div>Ada.</div><div><br></div><div>- San Cake Jakarta lokasinya dimana ?</div><div>Di Jelambar, Jakarta Barat</div><div>Buka hari Senin - Sabtu</div><div>Pkl, 09.00 - 18.00</div><div>( Tutup pada hari minggu dan hari libur nasional )</div><div><br></div><div>- Ditoko ada apa aja/ Ada ready stok apa aja ?</div><div>untuk custom cake tidak ada kue ready.</div><div><br></div><div>- Apa ada display atau contoh produk ( nyata )?</div><div>Semua display berupa foto ( virtual ) yang ada di web / FB</div><div><br></div><div>- Apa ada ready stok yang bisa dibeli / dicoba rasanya ?</div><div>Tidak Ada.</div><div><br></div><div>- Kalo mau ngerasain ( tester ) gimana ?</div><div>Tester hanya dibuat khusus untuk Wedding Cake saja, Tester dapat diambil atau pun di kirim sesuai dengan waktu dan tempat yang telah di tentukan.</div><div><br></div><div>.: CUSTOM PRODUCT:.</div><div><br></div><div>- Klo mo pesen gimana ?</div><div>Bisa ke WA di 083875736268&nbsp;</div><div>Line 083875736268 (heyunnie)</div><div>Email sancakejkt@gmail.com</div><div><br></div><div>tidak disarankan menggunakan telepon untuk menghindari misscommunication atau kesalahan dalam menuliskan detail pesanan.</div><div><br></div><div>- Paling lambat pesennya berapa hari sebelumnya ya ?</div><div>Bisa 2 minggu sampai sebulan sebelumnya, untuk menghindari bentrok dengan order lain, atau untuk memastikan tgl tsb available / tidak.&nbsp;</div><div><br></div><div>- Bisa tidak pesen untuk pengiriman dihari yang sama ( one day order ) ?</div><div>Tidak bisa. Kue tidak bisa dibuat mendadak, juga tidak stok.</div><div><br></div><div><span style=\"font-size: 17px;\">- Darimana saya yakin kalo San Cake Jakarta itu online shop yang bisa dipercaya ?</span><br></div><div>San Cake sudah berjalan dari tahun 1999 dan sudah mempunyai pelanggan setia yang selalu repeat order.</div><div><br></div><div><span style=\"font-size: 17px;\">- Rasanya ada apa aja ?</span><br></div><div>Lapis Surabaya, Blackforest, Double Chocolate, Puding, Puding Lapis Surabaya</div><div><br></div><div>- San Cake menggunakan Buttercream atau Fondant?</div><div>San Cake hanya menggunakan Butter Cream untuk lapisan cake, Fondant &amp; Icing hanya untuk decorating saja.</div><div><br></div><div><span style=\"font-size: 17px;\">- Designnya boleh kita yang tentukan ?</span><br></div><div>Boleh. Selama tidak terlalu rumit dan saya bisa, silahkan.</div><div><br></div><div>- Kuenya tahan berapa lama ?</div><div>Untuk kue kue berdekorasi, pada suhu ruang bisa bertahan 3 hari. Untuk kue kue yang harus disimpan di lemari pendingin ( mis. blackforest, opera, cheesecake, dll ) masa tahan bisa sampai 1 minggu didalam kulkas.</div><div><br></div><div>- Harganya bisa di nego gak ?</div><div>Maaf tidak bisa. Semua harga yang saya tentukan bersifat fixed, so thanks for understanding :)</div><div><br></div><div>- Apa semua figurine aman dimakan ?</div><div>Figurine yang terbuat dari fondant/ plastic icing tentu sangat amat dikonsumsi karena berbahan dasar gula. Bahan yang sama dengan bahan yang saya gunakan untuk mengcover kue kue berdekorasi fondant. Tapi pada beberapa dekorasi, saya menggunakan kawat/ spageti mentah untuk struktur, jadi sebaiknya diperiksa dulu sebelum dimakan.</div><div><br></div><div>- Boleh tidak saya pesen figurinenya aja ?</div><div>Maaf, belum bisa :)</div><div><br></div><div>.: PEMBAYARAN :.</div><div><br></div><div>- Klo mo pesen, bayarnya gimana ?</div><div>Via transfer bank BCA&nbsp;</div><div><br></div><div>- Harus DP dulu atau langsung bayar full ?</div><div>Semua full payment ya</div><div><br></div><div>- Paling lambat kapan bayarnya ?</div><div>Kalo ordernya diatas 2 minggu, pembayaran paling lambat 1 minggu ( 7 hr ) sblm hari H. Klo Ordernya dibawah 1 minggu, maka pembayaran dilakukan di hari yang sama setelah order fixed.</div><div><br></div><div>- Boleh ga dibayar waktu nganter kue ?</div><div>Tidak bisa. Semua full payment dimuka.</div><div><br></div><div>.: DELIVERY :.</div><div><br></div><div>- Pesanan bisa ga dikirim ?</div><div>Bisa, kami mempunyai kurir kami sendiri</div><div><br></div><div>- Bisa ga kirim ke luar kota / pulau ?</div><div>Tidak bisa. Hanya khusus kota Surabaya dan sekitarnya.</div><div><br></div><div>- Kalau dikirim, ada ongkos kirimnya ga ?</div><div>Ada. Besarnya tergantung jarak.</div><div><br></div><div><span style=\"font-size: 17px;\">- Kuenya bisa dikirim pake jasa pengiriman ( s.a Tiki/JNE ) ?</span><br></div><div>Maaf tidak bisa. Kue sangat rapuh dan mudah rusak ( dekorasinya ). Kue harus dihandcarry sampai lokasi tujuan.</div><div><br></div><div><br></div><div><br><p><br></p><div><div><br><p><br></p></div></div></div><p></p>"
         }
       ]
     }
